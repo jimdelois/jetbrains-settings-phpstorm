@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="PHP">
+        <added pattern="\PHPUnit_Framework_Assert.assertSame(expected,actual,message)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

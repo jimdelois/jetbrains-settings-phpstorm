@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="matplotlibrc" type="PLAIN_TEXT" />
+      <mapping pattern=".coveralls" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-override" type="PLAIN_TEXT" />
+      <mapping ext="raml" type="PLAIN_TEXT" />
+      <mapping ext="blueprint" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,20 @@
+<profile version="1.0">
+  <description>My Behance Profile</description>
+  <option name="myName" value="Behance" />
+  <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Project Files" level="ERROR" enabled="true">
+      <option name="UNUSEDCODE" value="true" />
+    </scope>
+    <option name="UNUSEDCODE" value="true" />
+  </inspection_tool>
+  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="ERROR" enabled_by_default="false">
+    <scope name="Project Files" level="ERROR" enabled="true">
+      <option name="CODING_STANDARD" value="Custom" />
+      <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/Development/source/Behance/dev/behance/php-sniffs/Behance" />
+      <option name="WARNING_HIGHLIGHT_LEVEL_NAME" value="ERROR" />
+    </scope>
+    <option name="CODING_STANDARD" value="Custom" />
+    <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/Development/source/Behance/dev/behance/php-sniffs/Behance" />
+    <option name="WARNING_HIGHLIGHT_LEVEL_NAME" value="ERROR" />
+  </inspection_tool>
+</profile>
