@@ -1,25 +1,10 @@
 <application>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-  </component>
-  <component name="InspectionProfileManager">
-    <info color="ff8f08">
-      <option name="FOREGROUND" value="ffffff" />
-      <option name="BACKGROUND" value="f6ebbc" />
-      <option name="FONT_TYPE" value="1" />
-      <option name="EFFECT_COLOR" value="ffffff" />
-      <option name="ERROR_STRIPE_COLOR" value="ff8f08" />
-      <option name="EFFECT_TYPE" value="2" />
-      <option name="myName" value="VALIDATION" />
-      <option name="myVal" value="50" />
-      <option name="myExternalName" value="VALIDATION" />
-    </info>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+    <option name="LINE_SPACING" value="1.2" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
