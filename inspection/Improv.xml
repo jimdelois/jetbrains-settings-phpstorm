@@ -1,8 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="Improv" />
   <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <option name="CODESIZE" value="true" />
-    <option name="DESIGN" value="true" />
     <option name="UNUSEDCODE" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpCSValidationInspection" enabled="true" level="ERROR" enabled_by_default="true">
