@@ -7,21 +7,22 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/Cellar/php/7.2.6/bin/php" id="01183d16-d8d9-4493-813c-cdeed5ba522a" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php/8.0.9/bin/php" id="01183d16-d8d9-4493-813c-cdeed5ba522a" name="PHP 8.0" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.2.6/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.2.6/bin/php" path_separator=":" version="7.2.6">
-          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
+      <interpreter name="PHP 8.0">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.0.9/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.0.9/bin/php" path_separator=":" version="8.0.9">
+          <additional_php_ini>/usr/local/etc/php/8.0/conf.d/ext-opcache.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/8.0/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.2.6/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.0.9/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
             <extension name="Core" />
+            <extension name="FFI" />
             <extension name="PDO" />
             <extension name="PDO_ODBC" />
             <extension name="Phar" />
@@ -76,11 +77,10 @@
             <extension name="sysvmsg" />
             <extension name="sysvsem" />
             <extension name="sysvshm" />
+            <extension name="tidy" />
             <extension name="tokenizer" />
-            <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
-            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="zip" />
