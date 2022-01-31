@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern=".env.*" type=".env file" />
+      <mapping ext="env" type=".env file" />
+      <mapping pattern=".env" type="Ini" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
+    </extensionMap>
+  </component>
+</application>
